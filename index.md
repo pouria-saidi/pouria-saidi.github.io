@@ -1,6 +1,6 @@
 ---
 Title: "About me"
-layout: default
+layout: page
 nav_order: 1
 permalink: /aboutme/
 ---
