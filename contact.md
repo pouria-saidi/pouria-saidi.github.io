@@ -1,6 +1,8 @@
+---
 layout: contact
 title: "contact"
 nav_order: 1
+---
 
 # Heading
 
