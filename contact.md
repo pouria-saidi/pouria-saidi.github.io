@@ -1,7 +1,6 @@
 layout: contact
 title: "contact"
 nav_order: 1
-permalink: /contact/
 
 # Heading
 
