@@ -1,7 +1,7 @@
 ---
-title: aboutme
+title: "aboutme"
 layout: default
-permalink:/aboutme/
+permalink: /aboutme/
 ---
 
 Check 1.
