@@ -1,7 +1,7 @@
 ---
-layout: default
 title: "contact"
-nav_order: 1
+layout: default
+nav_order: 2
 ---
 
 # Heading
