@@ -1,5 +1,5 @@
 ---
-title: "About me"
+Title: "About me"
 layout: default
 nav_order: 1
 permalink: /aboutme/
