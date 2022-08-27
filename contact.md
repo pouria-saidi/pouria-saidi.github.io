@@ -1,5 +1,5 @@
 ---
-title: "contact"
+Title: "contact"
 layout: default
 nav_order: 2
 permalink: /contact/
