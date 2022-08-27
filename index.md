@@ -1,8 +1,5 @@
 ---
-Title: "About me"
-layout: page
-nav_order: 1
-permalink: /aboutme/
+layout: default
 ---
 
 Check 1.
