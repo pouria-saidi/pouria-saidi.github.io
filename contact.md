@@ -1,7 +1,7 @@
-layout:contact
-title:"contact"
+layout: contact
+title: "contact"
 nav_order: 1
-permalink:/contact/
+permalink: /contact/
 
 # Heading
 
