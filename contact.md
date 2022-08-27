@@ -2,7 +2,7 @@
 title: "contact"
 layout: default
 nav_order: 2
-permalink: contact
+permalink: /contact/
 ---
 
 # Heading
