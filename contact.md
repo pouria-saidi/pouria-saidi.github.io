@@ -4,7 +4,7 @@ layout: page
 nav_order: 1
 permalink: /contact/
 ---
-<a href="./page1">Go to next page</a>
+<a href="./page2">Contacts</a>
 
 # Heading
 
