@@ -1,6 +1,6 @@
 ---
 title: "aboutme"
-layout: template
+layout: page
 permalink: /aboutme/
 nav_order: 2
 ---
