@@ -1,6 +1,6 @@
 ---
 title: "contact"
-layout: default
+layout: template
 nav_order: 1
 permalink: /contact/
 ---
