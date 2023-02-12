@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
 
-<img src="/Images/Pouria.png" alt="Your Logo" class="logo">
 
-.logo {
+
+logo: /Images/Pouria.png
+logo {
   height: 50px;
   width: 50px;
 }
