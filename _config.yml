@@ -1,5 +1,11 @@
 theme: jekyll-theme-minimal
-logo: /Images/Pouria.png
+
+<img src="/Images/Pouria.png" alt="Your Logo" class="logo">
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
 title: Pouria Saidi
 description: psaidi@asu.edu
 markdown: kramdown
