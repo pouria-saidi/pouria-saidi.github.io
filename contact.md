@@ -1,2 +1,4 @@
-Email: psaidi@asu.edu
+## Email: 
+       psaidi@asu.edu
        pouria.saidi@gmail.com
+
