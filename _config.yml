@@ -1,12 +1,10 @@
 theme: jekyll-theme-minimal
 
-
+logo_width: 50
+logo_height: 50
 
 logo: /Images/Pouria.png
-logo {
-  height: 50px;
-  width: 50px;
-}
+
 title: Pouria Saidi
 description: psaidi@asu.edu
 markdown: kramdown
