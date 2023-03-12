@@ -1,6 +1,6 @@
 <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C3&q=pouria+saidi&btnG=">Publications</a>  &nbsp; 
 
-<a href="/contact/">Go to my second page</a>
+<a href="/contact.md/">Go to my second page</a>
 
 
 [contact me](contact.md)
