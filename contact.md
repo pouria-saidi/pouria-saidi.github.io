@@ -1,4 +1,6 @@
-
+---
+permalink: /contact/
+---
 
 ## Email: 
        psaidi@asu.edu
