@@ -2,4 +2,4 @@
 permalink: /Talks/
 ---
 
-Realistic Estimates of Machine Learning Classification Accuracy from Overoptimistic Published Results, Information Theory Workshop (ITA), San Diego, February 2023.
+Realistic Estimates of Machine Learning Classification Accuracy from Overoptimistic Published Results, Information Theory and Applications Workshop (ITA), San Diego, February 2023.
