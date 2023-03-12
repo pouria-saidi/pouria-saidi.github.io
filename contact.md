@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contacts
-permalink: /contact-page/
+permalink: /contact/
 ---
 ## Email: 
        psaidi@asu.edu
