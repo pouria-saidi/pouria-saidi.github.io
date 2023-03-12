@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Contacts
 permalink: /contact/
 ---
 ## Email: 
