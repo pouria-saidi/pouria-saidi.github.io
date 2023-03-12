@@ -1,5 +1,6 @@
 ---
 permalink: /Talks/
+title: Talks
 ---
 ## Talks
 <ul>
