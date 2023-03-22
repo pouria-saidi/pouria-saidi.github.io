@@ -4,12 +4,6 @@
 <a href="#section4">Publications </a>
 <a href="#section5">Contacts </a>
 
-<p>Content for section 1 goes here...</p>
-
-<h2 id="section2">Section 2</h2>
-
-<h2 id="section3">Section 3</h2>
-<p>Content for section 3 goes here...</p>
 
 
 <h2 id="section1"> About me</h2>
