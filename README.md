@@ -32,7 +32,9 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
 </p>
 
 <h2 id="section5">Contacts</h2>
-<p>
+<p> 
+   psaidi@asu.edu
+   pouria.saidi@gmail.com
 </p>
 
  
