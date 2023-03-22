@@ -10,12 +10,14 @@
 <p>
 I am currently a postdoctoral scholar at the School of Electrical, Computer and Energy Engineering at the Arizona State University. I received my Ph.D. at the Department of Electrical and Computer Engineering at the University of Central Florida.
 </p>
+
  
-<h2 id="section1">Research Interests</h2>
+<h2 id="section2">Research Interests</h2>
 <p>
 </p>
 
-<h2 id="section1"Talks</h2>
+
+<h2 id="section3"Talks</h2>
 <p>
  <ul>
   <li>Realistic Realistic Estimates of Machine Learning Models Classification Accuracy from Overoptimistic Published Results, Information Theory and Applications Workshop (ITA), San Diego, February 2023</li>
@@ -25,7 +27,11 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
  </p>
  
   
-<h2 id="section1">Publications</h2>
+<h2 id="section4">Publications</h2>
+<p>
+</p>
+
+<h2 id="section5">Contacts</h2>
 <p>
 </p>
 
