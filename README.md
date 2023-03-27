@@ -32,7 +32,7 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
 <p>
 <ul>
  
-### Sparse recovery guarantees for Nested Periodic Dictionaries
+#### Sparse recovery guarantees for Nested Periodic Dictionaries
 <li> Pouria Saidi and George Atia. Support recovery of periodic mixtures with nested periodic dictionaries. Submitted to
 IEEE Journal of Selected Areas on Information Theory, preprint available arXiv:2110.13200, November 2021 </li>
 <li>Pouria Saidi and George K Atia. Sparse recovery guarantees of periodic signals with nested periodic dictionaries. In
@@ -53,11 +53,11 @@ transforms. In Asilomar Conference on Signals, Systems, and Computers, 2017 </li
 visual evoked potentials. In 2018 52nd Asilomar Conference on Signals, Systems, and Computers, 2018 </li>
 
 
-### Motor imagery-based brain computer interface
+#### Motor imagery-based brain computer interface
 <li> Pouria Saidi, George Atia, and et al. Motor imagery classification using multiresolution analysis and sparse
 representation of EEG signals. In GlobalSIP, 2015 </li>
 
-### Voice disorder signal classification using supervised learning
+#### Voice disorder signal classification using supervised learning
 <li> Pouria Saidi and Farshad Almasganj. Voice disorder signal classification using m-band wavelets and support vector
 machine. Circuits, Systems, and Signal Processing, 2015 </li>
 
