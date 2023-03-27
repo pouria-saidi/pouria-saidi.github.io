@@ -14,17 +14,6 @@ I am currently a postdoctoral scholar at the School of Electrical, Computer and 
 </p>
 
 
-<h2 id="section3">Talks</h2>
-<p>
- <ul>
-  <li>Estimating Realistic Performance of Machine Learning Models in the Face of Publication Bias - Reproducibility, Replicability and Trust in Science, September 2022</li>
-  <li> Realistic Estimates of Machine Learning Models Classification Accuracy from Overoptimistic Published Results, Information Theory and Applications Workshop (ITA), San Diego, February 2023</li>
-  <li>Estimating Realistic Classification Accuracy of Machine Learning Models from Overoptimistic
-Published Results, Quantitative Psychology Seminar Series, Arizona State University,January 2023 </li>
-</ul>
- </p>
- 
-  
 <h2 id="section4">Projects and Publications</h2>
 <p>
 <ul>
@@ -67,6 +56,17 @@ machine. Circuits, Systems, and Signal Processing, 2015 </li>
 
 </ul>
 </p>
+
+<h2 id="section3">Talks</h2>
+<p>
+ <ul>
+  <li>Estimating Realistic Performance of Machine Learning Models in the Face of Publication Bias - Reproducibility, Replicability and Trust in Science, September 2022</li>
+  <li> Realistic Estimates of Machine Learning Models Classification Accuracy from Overoptimistic Published Results, Information Theory and Applications Workshop (ITA), San Diego, February 2023</li>
+  <li>Estimating Realistic Classification Accuracy of Machine Learning Models from Overoptimistic
+Published Results, Quantitative Psychology Seminar Series, Arizona State University,January 2023 </li>
+</ul>
+ </p>
+ 
 
 <h2 id="section5">Contacts</h2>
 <p> 
