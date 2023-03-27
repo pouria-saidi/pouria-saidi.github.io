@@ -31,8 +31,9 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
 <h2 id="section4">Projects and Publications</h2>
 <p>
 <ul>
+ 
 ### Sparse recovery guarantees for Nested Periodic Dictionaries
-<li>Pouria Saidi and George Atia. Support recovery of periodic mixtures with nested periodic dictionaries. Submitted to
+<li> Pouria Saidi and George Atia. Support recovery of periodic mixtures with nested periodic dictionaries. Submitted to
 IEEE Journal of Selected Areas on Information Theory, preprint available arXiv:2110.13200, November 2021 </li>
 <li>Pouria Saidi and George K Atia. Sparse recovery guarantees of periodic signals with nested periodic dictionaries. In
 IEEE Information Theory Workshop (ITW), pages 1–6, 2021 </li>
