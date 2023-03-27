@@ -1,4 +1,4 @@
-<a href="#section1">About me </a> &nbsp;&nbsp;  <a href="#section2">Research Interests </a> &nbsp;&nbsp; <a href="#section4">Publications </a> &nbsp;&nbsp; <a href="#section3">Talks </a> &nbsp;&nbsp; <a href="#section5">Contacts </a>
+<a href="#section1">About me </a> &nbsp;&nbsp;  <a href="#section2">Research Interests </a> &nbsp;&nbsp; <a href="#sectionNews">News </a> <a href="#section4">Publications </a> &nbsp;&nbsp; <a href="#section3">Talks </a> &nbsp;&nbsp; <a href="#section5">Contacts </a>
 
 
 
@@ -13,6 +13,10 @@ I am currently a postdoctoral scholar at the School of Electrical, Computer and 
  
 </p>
 
+<h2 id="sectionNews"> News </h2>
+<p>
+Presented our recent findings at ITA 2023, titled "Realistic Estimates of Machine Learning Models Classification Accuracy from Overoptimistic Published Results".
+</p>
 
 <h2 id="section4">Projects and Publications</h2>
 <p>
@@ -31,7 +35,6 @@ IEEE Journal of Selected Areas on Information Theory, preprint available arXiv:2
 IEEE Information Theory Workshop (ITW), pages 1–6, 2021 </li>
 <li>Pouria Saidi, George Atia, and Azadeh Vosoughi. Improved block-sparse recovery bound using cumulative block
 coherence. In 54th Asilomar Conference on Signals, Systems, and Computers, pages 1385–1389, 2020 </li>
-</li>
 
 <h4 id="rptdet">Detection of visually evoked potentials to develop brain computer interfaces</h4>
 
