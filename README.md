@@ -1,7 +1,11 @@
-<a href="#section1">About me </a>
+<a href="#section1">About me </a> 
+
 <a href="#section2">Research Interests </a>
+
 <a href="#section3">Talks </a>
+
 <a href="#section4">Publications </a>
+
 <a href="#section5">Contacts </a>
 
 
