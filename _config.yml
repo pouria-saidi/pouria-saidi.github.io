@@ -6,3 +6,13 @@ title: Pouria Saidi
 description: psaidi@asu.edu
 markdown: kramdown
 highlighter: rouge
+
+scholar:
+
+style: apa
+source: ./_bilbiography
+bilbiography: publication.bib
+sort_by: year
+order: descending
+
+
