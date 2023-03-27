@@ -1,4 +1,4 @@
-<a href="#section1">About me {: style="padding: 10px;" } </a>  <a href="#section2">Research Interests </a>  <a href="#section4">Publications </a> <a href="#section3">Talks </a> <a href="#section5">Contacts </a>
+<a href="#section1 {: style="padding: 10px;" }">About me </a>  <a href="#section2">Research Interests </a>  <a href="#section4">Publications </a> <a href="#section3">Talks </a> <a href="#section5">Contacts </a>
 
 
 
