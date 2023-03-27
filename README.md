@@ -41,7 +41,7 @@ IEEE Information Theory Workshop (ITW), pages 1–6, 2021 </li>
 coherence. In 2020 54th Asilomar Conference on Signals, Systems, and Computers, pages 1385–1389, 2020 </li>
 </li>
 
-<h3 id="rptdet">Detection of visually evoked potentials to develop brain computer interfaces</h3>
+<h4 id="rptdet">Detection of visually evoked potentials to develop brain computer interfaces</h4>
 
 <li> Pouria Saidi, Azadeh Vosoughi, and George Atia. Detection of brain stimuli using Ramanujan periodicity transforms.
 Journal of Neural Engineering, 2019 </li>
