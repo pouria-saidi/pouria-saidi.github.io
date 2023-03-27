@@ -35,10 +35,11 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
 #### Sparse recovery guarantees for Nested Periodic Dictionaries
 <li> Pouria Saidi and George Atia. Support recovery of periodic mixtures with nested periodic dictionaries. Submitted to
 IEEE Journal of Selected Areas on Information Theory, preprint available arXiv:2110.13200, November 2021 </li>
-<li>Pouria Saidi and George K Atia. Sparse recovery guarantees of periodic signals with nested periodic dictionaries. In
+<li> Pouria Saidi and George Atia. Structured Model Selection for Recovery of Sparse Representations in Nested Periodic Dictionaries.
+<li>Pouria Saidi and George K Atia. Sparse recovery guarantees of periodic signals with nested periodic dictionaries. In 56th Asilomar Conference on Signals, Systems, and Computers, pages 862–866, 2022
 IEEE Information Theory Workshop (ITW), pages 1–6, 2021 </li>
 <li>Pouria Saidi, George Atia, and Azadeh Vosoughi. Improved block-sparse recovery bound using cumulative block
-coherence. In 2020 54th Asilomar Conference on Signals, Systems, and Computers, pages 1385–1389, 2020 </li>
+coherence. In 54th Asilomar Conference on Signals, Systems, and Computers, pages 1385–1389, 2020 </li>
 </li>
 
 <h4 id="rptdet">Detection of visually evoked potentials to develop brain computer interfaces</h4>
@@ -50,7 +51,7 @@ transform for real time brain computer interfaces. In ICASSP, 2017 </li>
 <li> Pouria Saidi, George Atia, and Azadeh Vosoughi. On robust detection of brain stimuli with Ramanujan periodicity
 transforms. In Asilomar Conference on Signals, Systems, and Computers, 2017 </li>
 <li> Pouria Saidi, George Atia, and Azadeh Vosoughi. Periodicity transforms for multichannel and multiclass detection of
-visual evoked potentials. In 2018 52nd Asilomar Conference on Signals, Systems, and Computers, 2018 </li>
+visual evoked potentials. In 52nd Asilomar Conference on Signals, Systems, and Computers, 2018 </li>
 
 
 #### Motor imagery-based brain computer interface
