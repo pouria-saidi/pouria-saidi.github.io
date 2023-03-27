@@ -30,6 +30,7 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
   
 <h2 id="section4">Publications</h2>
 <p>
+{%bilbiography%}
 </p>
 
 <h2 id="section5">Contacts</h2>
