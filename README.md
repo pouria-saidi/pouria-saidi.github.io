@@ -18,11 +18,11 @@ I am currently a postdoctoral scholar at the School of Electrical, Computer and 
 <p>
 <ul>
  
-<h4 id="trust">Trustworthy machine learning: Protect against bias</h2>
+<h4 id="trust">Trustworthy machine learning: Protect against bias</h4>
 
  
 <h4 id="sparse_guarantees"> Sparse recovery guarantees for Nested Periodic Dictionaries
-</h2>
+</h4>
 
 <li> Pouria Saidi and George Atia. Structured Model Selection for Recovery of Sparse Representations in Nested Periodic Dictionaries.  In 56th Asilomar Conference on Signals, Systems, and Computers, pages 862–866, 2022 </li>
  <li> Pouria Saidi and George Atia. Support recovery of periodic mixtures with nested periodic dictionaries. Submitted to
@@ -44,13 +44,13 @@ transforms. In Asilomar Conference on Signals, Systems, and Computers, 2017 </li
 <li> Pouria Saidi, George Atia, and Azadeh Vosoughi. Periodicity transforms for multichannel and multiclass detection of
 visual evoked potentials. In 52nd Asilomar Conference on Signals, Systems, and Computers, 2018 </li>
 
-<h4 id="trust">Motor imagery-based brain computer interface</h2>
+<h4 id="trust">Motor imagery-based brain computer interface</h4>
 
 <li> Pouria Saidi, George Atia, and et al. Motor imagery classification using multiresolution analysis and sparse
 representation of EEG signals. In GlobalSIP, 2015 </li>
 
 
-<h4 id="trust">Voice disorder signal classification using supervised learning</h2>
+<h4 id="trust">Voice disorder signal classification using supervised learning</h4>
 <li> Pouria Saidi and Farshad Almasganj. Voice disorder signal classification using m-band wavelets and support vector
 machine. Circuits, Systems, and Signal Processing, 2015 </li>
 
