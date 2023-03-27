@@ -10,7 +10,7 @@ highlighter: rouge
 scholar:
 
 style: apa
-source: ./_bilbiography
+source: ./_publication
 bilbiography: publication.bib
 sort_by: year
 order: descending
