@@ -31,7 +31,7 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
 <h2 id="section4">Projects and Publications</h2>
 <p>
 <ul>
-<li> Sparse recovery guarantees for Nested Periodic Dictionaries
+# Sparse recovery guarantees for Nested Periodic Dictionaries
 <li>Pouria Saidi and George Atia. Support recovery of periodic mixtures with nested periodic dictionaries. Submitted to
 IEEE Journal of Selected Areas on Information Theory, preprint available arXiv:2110.13200, November 2021 </li>
 <li>Pouria Saidi and George K Atia. Sparse recovery guarantees of periodic signals with nested periodic dictionaries. In
@@ -39,9 +39,9 @@ IEEE Information Theory Workshop (ITW), pages 1–6, 2021 </li>
 <li>Pouria Saidi, George Atia, and Azadeh Vosoughi. Improved block-sparse recovery bound using cumulative block
 coherence. In 2020 54th Asilomar Conference on Signals, Systems, and Computers, pages 1385–1389, 2020 </li>
 </li>
-</ul>
-<ul>
-<li> Detection of visually evoked potentials to develop brain computer interfaces 
+
+
+# Detection of visually evoked potentials to develop brain computer interfaces 
 <li> Pouria Saidi, Azadeh Vosoughi, and George Atia. Detection of brain stimuli using Ramanujan periodicity transforms.
 Journal of Neural Engineering, 2019 </li>
 <li> Pouria Saidi, George Atia, and Azadeh Vosoughi. Detection of visual evoked potentials using Ramanujan periodicity
@@ -50,19 +50,16 @@ transform for real time brain computer interfaces. In ICASSP, 2017 </li>
 transforms. In Asilomar Conference on Signals, Systems, and Computers, 2017 </li>
 <li> Pouria Saidi, George Atia, and Azadeh Vosoughi. Periodicity transforms for multichannel and multiclass detection of
 visual evoked potentials. In 2018 52nd Asilomar Conference on Signals, Systems, and Computers, 2018 </li>
-</li>
-</ul>
-<ul>
-<li> Motor imagery-based brain computer interface
+
+
+# Motor imagery-based brain computer interface
 <li> Pouria Saidi, George Atia, and et al. Motor imagery classification using multiresolution analysis and sparse
 representation of EEG signals. In GlobalSIP, 2015 </li>
-</li>
-</ul>
-<ul>
-<li>Voice disorder signal classification using supervised learning
+
+# Voice disorder signal classification using supervised learning
 <li> Pouria Saidi and Farshad Almasganj. Voice disorder signal classification using m-band wavelets and support vector
 machine. Circuits, Systems, and Signal Processing, 2015 </li>
-</li>
+
 </ul>
 </p>
 
