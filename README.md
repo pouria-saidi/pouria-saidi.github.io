@@ -14,6 +14,7 @@ I am currently a postdoctoral scholar at the School of Electrical, Computer and 
  
 <h2 id="section2">Research Interests</h2>
 <p>
+ 
 </p>
 
 
@@ -32,7 +33,7 @@ Published Results, Quantitative Psychology Seminar Series, Arizona State Univers
 <p>
 <ul>
  
-<h4 id="trust">trustworthy machine learning: Protect against bias</h2>
+<h4 id="trust">Trustworthy machine learning: Protect against bias</h2>
 
  
 #### Sparse recovery guarantees for Nested Periodic Dictionaries
