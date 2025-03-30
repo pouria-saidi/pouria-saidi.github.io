@@ -4,7 +4,7 @@
 
 <h2 id="section1"> About me</h2>
 <p>
-I am currently a postdoctoral scholar at the School of Electrical, Computer and Energy Engineering at the Arizona State University where I got the opportunity to work with Dr. Visar Berisha and Dr. Gautam Dasarathy. I received my Ph.D. at the Department of Electrical and Computer Engineering at the University of Central Florida.
+I am currently a Research Fellow in the Department of Neurology at Mayo Clinic, Arizona, working with Dr. Oana Dumitrascu on early detection and risk modeling of Preclinical Alzheimer's disease. Prior to that, I was a postdoc at Arizona State University, where I explored responsible machine learning methods with Dr. Visar Berisha and Gautam Dasarathy. I completed my Ph.D. at the Department of Electrical and Computer Engineering at the University of Central Florida.
 </p>
 
  
@@ -23,8 +23,10 @@ Presented our recent findings at ITA 2023, titled "Realistic Estimates of Machin
 <ul>
  
 <h4 id="trust">Trustworthy machine learning: Protect against bias</h4>
+<li> Pouria Saidi, Gautam Dasarathy and Visar Berisha. Unraveling overoptimism and publication bias in ML-driven science. Patterns. 2025 </li>
+<li> Sean Kinahan, Pouria Saidi, Ayoub Daliri, Julie Liss and Visar Berisha. Achieving Reproducibility in EEG-Based Machine Learning. FACCT 2024 </li>
 
- 
+
 <h4 id="sparse_guarantees"> Sparse recovery guarantees for Nested Periodic Dictionaries
 </h4>
 
