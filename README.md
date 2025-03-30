@@ -7,11 +7,6 @@
 I am currently a Research Fellow in the Department of Neurology at Mayo Clinic, Arizona, working with Dr. Oana Dumitrascu on early detection and risk modeling of Preclinical Alzheimer's disease. Prior to that, I was a postdoc at Arizona State University, where I explored responsible machine learning methods with Dr. Visar Berisha and Gautam Dasarathy. I completed my Ph.D. at the Department of Electrical and Computer Engineering at the University of Central Florida.
 </p>
 
- 
-<h2 id="section2">Research Interests</h2>
-<p>
- 
-</p>
 
 <h2 id="sectionNews"> News </h2>
 <p>
