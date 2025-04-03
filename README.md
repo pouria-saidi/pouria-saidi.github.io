@@ -10,6 +10,14 @@ I am currently a Research Fellow in the Department of Neurology at Mayo Clinic, 
 
 <h2 id="sectionNews"> News </h2>
 <p>
+New paper: 
+<a href="https://www.cell.com/patterns/fulltext/S2666-3899(25)00033-9" target="_blank">
+  "Unraveling overoptimism and publication bias in ML-driven science"
+</a>, 
+Pouria Saidi, Gautam Dasarathy, and Visar Berisha. Published in <em>Patterns</em> (Cell Press), now available online.
+</p>
+
+<p>
 Presented our recent findings at ITA 2023, titled "Realistic Estimates of Machine Learning Models Classification Accuracy from Overoptimistic Published Results".
 </p>
 
