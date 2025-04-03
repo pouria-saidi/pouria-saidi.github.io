@@ -57,11 +57,6 @@ visual evoked potentials. In 52nd Asilomar Conference on Signals, Systems, and C
 <li> Pouria Saidi, George Atia, and et al. Motor imagery classification using multiresolution analysis and sparse
 representation of EEG signals. In GlobalSIP, 2015 </li>
 
-
-<h4 id="trust">Voice disorder signal classification using supervised learning</h4>
-<li> Pouria Saidi and Farshad Almasganj. Voice disorder signal classification using m-band wavelets and support vector
-machine. Circuits, Systems, and Signal Processing, 2015 </li>
-
 </ul>
 </p>
 
