@@ -25,7 +25,7 @@ Presented our recent findings at ITA 2023, titled "Realistic Estimates of Machin
 <p>
 <ul>
  
-<h4 id="trust">Trustworthy machine learning: Protect against bias</h4>
+<h4 id="trust">Responsible Machine Learning</h4>
 <li> Pouria Saidi, Gautam Dasarathy and Visar Berisha. Unraveling overoptimism and publication bias in ML-driven science. Patterns. 2025 </li>
 <li> Sean Kinahan, Pouria Saidi, Ayoub Daliri, Julie Liss and Visar Berisha. Achieving Reproducibility in EEG-Based Machine Learning. FACCT 2024 </li>
 
